@@ -12,7 +12,7 @@
         "en": {
             "app": {
                 "theme": {
-                    "brand": "#B11623",
+                    "brand": "#408040",
                     "complementary": "#FAFAFA"
                 },
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
@@ -32,7 +32,7 @@
                         "https://res.cloudinary.com/dbcnqeoio/image/upload/v1696439235/taller/tenis_cristo_j1xyvy.jpg"
                     ],
                     "description": "Situadas en Oviedo en plena zona del Campus de La Universidad de Oviedo, las Instalaciones Deportivas de El Cristo, inauguradas en el año 1952 con el nombre de “Estadio de la juventud”, fueron las primeras Instalaciones Deportivas públicas de Asturias y un referente para varias generaciones de deportistas Asturianos. Pertenecientes a la Administración de Gobierno del Principado de Asturias y dependientes de la Dirección General de Deporte  prestan servicios accesibles a usuarios de toda Asturias, Clubs y Federaciones Deportivas. Asimismo acoge los Centros de Tecnificación Deportiva de Natación y Bádminton, auspiciados por la Dirección General de Deporte, y celebraciones deportivas de carácter regional y nacional.",
-                    "more": "More description, if you want",
+                    "more": "",
                     "urls": [                    ]
                 },
                 {
@@ -45,7 +45,7 @@
                         "https://res.cloudinary.com/dbcnqeoio/image/upload/v1696439234/taller/tenis_club_u5aqid.jpg"
                     ],
                     "description": "The Real Club de Tenis de Oviedo is a private sports club in the city of Oviedo in the Principality of Asturias (Spain). It has 2,200 regular members plus their families.1​ Its facilities consist of four clay tennis courts, two glass-enclosed paddle tennis courts, a racquetball court and a gym. It organizes important tennis tournaments and championships in various modalities, such as the Masaveu Cup, or the international tournament Copa Real Club de Tenis de Oviedo, which in 2011 distributed 11,100 euros in prizes.2 In addition to tennis, the club carries out other activities such as gymnastics maintenance or mountaineering.3​ Fernando Fernández-Ladreda Aguirre is its elected president.",
-                    "more": "More description, if you want",
+                    "more": "",
                     "urls": []
                 },
                 {
@@ -58,7 +58,7 @@
                         "https://res.cloudinary.com/dbcnqeoio/image/upload/v1696439234/taller/tenis_oeste_oucs60.jpg"
                     ],
                     "description": "Las Pistas de Tenis y Padel del Parque del Oeste de Oviedo dispone de:1 pista central de tenis de tierra batida de 24,50 x 44,60 m.4 pistas de tenis de tierra batida de 18,35 x 36,60 m.. con gradas para 300 personas cada una.4 pistas de tenis de green set de 18,35 x 36,60 m.. con gradas para 300 personas cada una.3 pistas de padel de 10 x 20 m. y cierre de vidrio, con superficie de hierba artificial monofilamento.",
-                    "more": "More description, if you want",
+                    "more": "",
                     "urls": []
                 }
             ]
