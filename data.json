@@ -1,0 +1,67 @@
+{
+    "meta": {
+        "app_id": "org.example.same.identifier.manifest.package",
+        "app_title": "Tennis court",
+        "version": 1,
+        "updated": "2022-09-26",
+        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
+        "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
+        "marketplace_url": ""
+    },
+    "content": {
+        "en": {
+            "app": {
+                "theme": {
+                    "brand": "#B11623",
+                    "complementary": "#FAFAFA"
+                },
+                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
+                "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
+                "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
+                "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
+                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
+                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
+            },
+            "pois": [{
+                    "id": "11111-cristo",
+                    "lat": "43.35366033618165", 
+                    "lon": "-5.869759817114289",
+                    "type": "tennis court",
+                    "name": "El Cristo Tennis court",
+                    "images": [
+                        "https://res.cloudinary.com/dbcnqeoio/image/upload/v1696439235/taller/tenis_cristo_j1xyvy.jpg"
+                    ],
+                    "description": "Situadas en Oviedo en plena zona del Campus de La Universidad de Oviedo, las Instalaciones Deportivas de El Cristo, inauguradas en el año 1952 con el nombre de “Estadio de la juventud”, fueron las primeras Instalaciones Deportivas públicas de Asturias y un referente para varias generaciones de deportistas Asturianos. Pertenecientes a la Administración de Gobierno del Principado de Asturias y dependientes de la Dirección General de Deporte  prestan servicios accesibles a usuarios de toda Asturias, Clubs y Federaciones Deportivas. Asimismo acoge los Centros de Tecnificación Deportiva de Natación y Bádminton, auspiciados por la Dirección General de Deporte, y celebraciones deportivas de carácter regional y nacional.",
+                    "more": "More description, if you want",
+                    "urls": [                    ]
+                },
+                {
+                    "id": "22222-club",
+                    "lat": "43.36175409515351",
+                    "lon": "-5.857782238381623",
+                    "type": "tennis court",
+                    "name": "Tennis Club Oviedo",
+                    "images": [
+                        "https://res.cloudinary.com/dbcnqeoio/image/upload/v1696439234/taller/tenis_club_u5aqid.jpg"
+                    ],
+                    "description": "The Real Club de Tenis de Oviedo is a private sports club in the city of Oviedo in the Principality of Asturias (Spain). It has 2,200 regular members plus their families.1​ Its facilities consist of four clay tennis courts, two glass-enclosed paddle tennis courts, a racquetball court and a gym. It organizes important tennis tournaments and championships in various modalities, such as the Masaveu Cup, or the international tournament Copa Real Club de Tenis de Oviedo, which in 2011 distributed 11,100 euros in prizes.2 In addition to tennis, the club carries out other activities such as gymnastics maintenance or mountaineering.3​ Fernando Fernández-Ladreda Aguirre is its elected president.",
+                    "more": "More description, if you want",
+                    "urls": []
+                },
+                {
+                    "id": "33333-oeste",
+                    "lat": "43.361367537653564",
+                    "lon": "-5.873005815168051",
+                    "type": "tennis court",
+                    "name": "Parque del Oeste Tennis Courts",
+                    "images": [
+                        "https://res.cloudinary.com/dbcnqeoio/image/upload/v1696439234/taller/tenis_oeste_oucs60.jpg"
+                    ],
+                    "description": "Las Pistas de Tenis y Padel del Parque del Oeste de Oviedo dispone de:1 pista central de tenis de tierra batida de 24,50 x 44,60 m.4 pistas de tenis de tierra batida de 18,35 x 36,60 m.. con gradas para 300 personas cada una.4 pistas de tenis de green set de 18,35 x 36,60 m.. con gradas para 300 personas cada una.3 pistas de padel de 10 x 20 m. y cierre de vidrio, con superficie de hierba artificial monofilamento.",
+                    "more": "More description, if you want",
+                    "urls": []
+                }
+            ]
+        }
+    }
+}
